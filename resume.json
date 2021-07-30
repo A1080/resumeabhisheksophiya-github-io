@@ -1,0 +1,89 @@
+{
+    "basics": {
+    "name": "Abhishek Sophiya",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/75741712?s=400&u=384be19d274092500accf1878baf220374545869&v=4",
+    "email": "2020kucp1080@iiitkota.ac.in",
+    "phone": "+918690585478",
+    "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+    "location": {
+    "address": "Ghatampur",
+    "postalCode": "209206",
+    "city": "Kanpur",
+    "countryCode": " India",
+    "region": "Uttar Pradesh"
+    },
+    "profiles": [
+    {
+    "network": "Github",
+    "username": "a1080",
+    "url": "https://www.github.com/a1080"
+    },
+    {
+    "network": "linkedin",
+    "username": "Abhishek Sophiya",
+    "url": "www.linkedin.com/in/abhishek-sophiya-58580120b"
+    },
+    {
+    "network": "Instagram",
+    "username": "abhisheksophiya",
+    "url": "https://www.instagram.com/abhisheksophiya/"
+    },
+    {
+        "network": "Facebook",
+        "username": "Abhishek Sophiya",
+        "url": "https://www.facebook.com/profile.php?id=100008724402903"
+        }
+    ]
+    },
+    "education": [
+    {
+    "institution": "Indian Institute of Information Technology,Kota",
+    "area": "Engineering",
+    "studyType": "Bachelor of Technology",
+    "courses": [
+    "Computer Science & Engineering"
+    ]
+    }
+    ],
+    "skills": [
+    {
+    "level": "Beginner",
+    "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Jquery",
+    "PHP",
+    "C/C++"
+    ]
+    }
+    ],
+    "Experience":[
+       {
+           "Intership":"Succesfully Completed 1 Month Intership of Gurugram Police Cyber Security Summer Intern 2021"
+       } 
+    ],
+    "languages": [
+    {
+    "language": "English",
+    "fluency": "Native speaker"
+    }
+    ],
+    "interests": [
+    {
+    "name": "Sketching",
+    "keywords": [
+    "Sketching"
+    ]
+    },
+    {
+    "name": "Playing",
+    "keywords": [
+    "Chess",
+    "Badminton"
+    ]
+    }
+    ],
+    "references": []
+    }
